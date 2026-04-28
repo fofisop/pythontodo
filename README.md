@@ -1,1 +1,1 @@
-# pythontodo
+Rock paper scissors game! It's been a while since I used python, but I do not miss it. Enjoy though! I make it to push myself, and I learned that I DO NOT MISS DOING PYTHONNN! I mean, I learned about how indentation is important.
